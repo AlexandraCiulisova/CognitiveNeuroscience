@@ -4,11 +4,9 @@ This repository holds the code used for analysis of an EEG experiment, used for 
 
 ### Experimental design
 The participant is presented with a classification/judgment task in an interference paradigm. For each trial, eight segments of either sentences or image sequences are presented with the last one either being semantically coherent or incoherent with the previous segments. Additionally there is music playing in the background with each segment, which has either a congruent or incongruent chord played on the last segment. The goal is to accurately classify whether the stimulus is coherent or incoherent. Eight types of trials are thus presented:
-1. Coh
-3. A neutral trial, in which the stimulus objects consist of achromatic line drawings of the stimulus objects.
 
 | Coherency (stimulus)             | Stimulus     |   Congruency (music)         |
-| ---------------------------------- | ------------------------------------------------------------------|
+| ---------------------------------- | ------------------------------------------------------------------| | ------------------------------------------------------------------|
 |  coherent  |   sentence        | congruent |
 |  coherent  |   sentence        | incongruent |
 |  coherent  |   image sequence        | congruent |
